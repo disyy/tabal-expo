@@ -1,5 +1,7 @@
 {
   "expo": {
+
+  
     "name": "DaisyApp",
     "slug": "DaisyApp",
     "version": "1.0.0",
@@ -7,7 +9,7 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/daisy.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
